@@ -1,0 +1,4 @@
+git init : To initialize a git repo on any project, open the terminal in the project location and write this command.
+git status : To see the list of un-staged changes, i.e., modified or is new
+git add : Adds the new or modified files to staging area for inclusion in the next commit from the current directory.
+git diff : displays the difference not added to index (index is a staging area between the working directory and repository)
